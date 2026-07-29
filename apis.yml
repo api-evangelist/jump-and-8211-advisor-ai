@@ -1,9 +1,32 @@
 aid: jump-and-8211-advisor-ai
 name: Jump &#8211; Advisor AI
-description: Jump &#8211; Advisor AI is a company surfaced as a portfolio company of insight-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Jump is an AI operating system for financial advisors, used by 35,000+ advisors and
+  ranked #1 across T3, Kitces, and The Oasis Group reports. It organizes its capabilities
+  into three products — Meet (AI notetaker, pre-meeting prep, agendas, automatic
+  follow-ups, and scheduling), Grow (opportunity signals, playbooks, scorecards, surveys,
+  and dashboards), and Operate (AI Associate, unified client profiles, and email
+  assistance) — built on a unified data, integration, and agentic AI orchestration
+  foundation. Jump is integration-led rather than a public-API provider: it ships 39+
+  two-way integrations with CRMs (Salesforce, Wealthbox, Redtail, HubSpot, AdvisorEngine),
+  financial planning tools (eMoney, RightCapital, Asset-Map), portfolio management (Orion,
+  Black Diamond), custodians (Charles Schwab), and meeting/VoIP platforms (Zoom, Teams,
+  Google Meet, RingCentral), pushing compliance-ready records straight into advisors'
+  systems of record. Backed by Insight Partners. No public developer API or portal is
+  published as of this profile.
 url: https://raw.githubusercontent.com/api-evangelist/jump-and-8211-advisor-ai/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://jump.imgix.net/v3/Web%20Linkedin%20Preview.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +35,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Artificial Intelligence
+- Financial Advisors
+- Wealth Management
+- Fintech
+- AI Assistant
+- Meeting Notes
+- Integrations
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +54,30 @@ maintainers:
 common:
 - type: Website
   url: https://jump.ai/
+- type: Blog
+  url: https://jump.ai/blog
+- type: Pricing
+  url: https://jump.ai/pricing
+- type: SignUp
+  url: https://jump.ai/register
+- type: Login
+  url: https://my.jumpapp.com/login
+- type: TermsOfService
+  url: https://jump.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://jump.ai/privacy-policy
+- type: Integrations
+  url: https://jump.ai/integrations
+- type: LinkedIn
+  url: https://www.linkedin.com/company/jump-app-ai/
+- type: TrustCenter
+  url: security/jump-and-8211-advisor-ai-trust-center.yml
+- type: Compliance
+  url: https://jump.ai/security
+- type: DomainSecurity
+  url: security/jump-and-8211-advisor-ai-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

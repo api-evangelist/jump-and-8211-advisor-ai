@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://jump.ai/security
+url: https://security.jump.ai/
+security_page: https://jump.ai/security
+certifications:
+- SOC 2 Type II
+- GDPR
+- PIPEDA
+notes: >-
+  Jump maintains SOC 2 Type II compliance assessed by an independent third-party
+  auditor across a continuous 12-month period, and is GDPR- and PIPEDA-compliant.
+  The Trust Center (security.jump.ai) hosts SOC 2 Type II reports and penetration
+  testing documentation. Posture includes zero-trust infrastructure, encryption in
+  transit and at rest, DPAs with model providers, no AI training on customer data,
+  and human-in-the-loop controls for autonomous actions.
+evidence:
+- source: https://jump.ai/security
+  keywords:
+  - soc 2 type ii
+  - gdpr
+  - pipeda
+  - trust center
+- source: https://security.jump.ai/
+  keywords:
+  - trust center
