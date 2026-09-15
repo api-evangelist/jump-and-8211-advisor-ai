@@ -1,19 +1,16 @@
 aid: jump-and-8211-advisor-ai
-name: Jump &#8211; Advisor AI
-description: >-
-  Jump is an AI operating system for financial advisors, used by 35,000+ advisors and
-  ranked #1 across T3, Kitces, and The Oasis Group reports. It organizes its capabilities
-  into three products — Meet (AI notetaker, pre-meeting prep, agendas, automatic
-  follow-ups, and scheduling), Grow (opportunity signals, playbooks, scorecards, surveys,
-  and dashboards), and Operate (AI Associate, unified client profiles, and email
-  assistance) — built on a unified data, integration, and agentic AI orchestration
-  foundation. Jump is integration-led rather than a public-API provider: it ships 39+
-  two-way integrations with CRMs (Salesforce, Wealthbox, Redtail, HubSpot, AdvisorEngine),
-  financial planning tools (eMoney, RightCapital, Asset-Map), portfolio management (Orion,
-  Black Diamond), custodians (Charles Schwab), and meeting/VoIP platforms (Zoom, Teams,
-  Google Meet, RingCentral), pushing compliance-ready records straight into advisors'
-  systems of record. Backed by Insight Partners. No public developer API or portal is
-  published as of this profile.
+name: Jump – Advisor AI
+description: 'Jump is an AI operating system for financial advisors, used by 35,000+ advisors and ranked
+  #1 across T3, Kitces, and The Oasis Group reports. It organizes its capabilities into three products
+  — Meet (AI notetaker, pre-meeting prep, agendas, automatic follow-ups, and scheduling), Grow (opportunity
+  signals, playbooks, scorecards, surveys, and dashboards), and Operate (AI Associate, unified client
+  profiles, and email assistance) — built on a unified data, integration, and agentic AI orchestration
+  foundation. Jump is integration-led rather than a public-API provider: it ships 39+ two-way integrations
+  with CRMs (Salesforce, Wealthbox, Redtail, HubSpot, AdvisorEngine), financial planning tools (eMoney,
+  RightCapital, Asset-Map), portfolio management (Orion, Black Diamond), custodians (Charles Schwab),
+  and meeting/VoIP platforms (Zoom, Teams, Google Meet, RingCentral), pushing compliance-ready records
+  straight into advisors'' systems of record. Backed by Insight Partners. No public developer API or portal
+  is published as of this profile.'
 url: https://raw.githubusercontent.com/api-evangelist/jump-and-8211-advisor-ai/refs/heads/main/apis.yml
 deliveryModel:
   model: saas
