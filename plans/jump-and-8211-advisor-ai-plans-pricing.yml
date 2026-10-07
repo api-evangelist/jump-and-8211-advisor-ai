@@ -1,0 +1,51 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://jump.ai/pricing
+sources:
+- https://jump.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Per-advisor monthly pricing with monthly/annual toggle ('Save up to 20% with annual payments');
+  Enterprise is contact sales. API access mentioned only as an Enterprise feature.
+plan_count: 4
+currency: USD
+plans:
+- name: Core plan — Meet
+  price_text: $ 100 per advisor/mo
+  price: 100
+  currency: USD
+  period: month
+  unit: per advisor
+  included_quota: AI notetaker, Unlimited meetings, Pre-meeting preparation, Follow-up tasks & emails,
+    Sync to CRM or financial planning tools, Meeting scheduling
+- name: Onboard (Add-on)
+  price_text: $ 50 per advisor/mo
+  price: 50
+  currency: USD
+  period: month
+  unit: per advisor
+  included_quota: AI-assisted account opening, Automatic form completion, Document intake, CRM field mapping,
+    Sync forms to CRM, Scrape documents
+- name: Grow (Add-on)
+  price_text: $ 50 per advisor/mo
+  price: 50
+  currency: USD
+  period: month
+  unit: per advisor
+  included_quota: Meeting analytics & insights, Topics & trends monitoring, Proactive client recommendations,
+    Conversation guides, Advisor coaching, Revenue opportunity sourcing
+- name: Enterprise
+  price_text: Contact sales
+  period: none
+  included_quota: API & build access, SSO, Custom attestations, SCIM/SAML, Compliance dashboard, Conditional
+    features, Custom disclosures, Personalized configuration
